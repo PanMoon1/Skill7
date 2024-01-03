@@ -1,0 +1,6 @@
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\7.1\7.1\bin\Debug\7.1.exe.config
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\7.1\7.1\bin\Debug\7.1.exe
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\7.1\7.1\bin\Debug\7.1.pdb
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\7.1\7.1\obj\Debug\7.1.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\7.1\7.1\obj\Debug\7.1.exe
+C:\Users\Artem\Desktop\Hellphase Studio\SkillBox\7.1\7.1\obj\Debug\7.1.pdb
